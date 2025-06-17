@@ -1,4 +1,4 @@
-# PortfoliodZulek11
+# Moje portoflio
 Moje portfolio ze skriptami/pluginami!
 
 Witaj! Tu dZulek11. W tym repozytorium znajdziesz moje skrypty napisane w pluginie Skript i pluginu dla mojego serwera code (https://dc.freezecode.pl).
