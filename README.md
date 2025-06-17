@@ -1,14 +1,19 @@
-# Moje portoflio
-Moje portfolio ze skriptami/pluginami!
+# 🧩 Moje portfolio – dZulek11
 
-Witaj! Tu dZulek11. W tym repozytorium znajdziesz moje skrypty napisane w pluginie Skript i pluginu dla mojego serwera code (https://dc.freezecode.pl).
+Witaj! Jestem **dZulek11** i w tym repozytorium znajdziesz moje skrypty napisane w pluginie **Skript** oraz pluginy dla mojego serwera **Freezecode**.  
+📡 Discord serwera: [https://dc.freezecode.pl](https://dc.freezecode.pl)
 
 ## 🧪 Jak testować
 
-1. Zainstaluj plugin [Skript](https://github.com/SkriptLang/Skript)
-2. Wrzuć pliki `.sk` do `plugins/Skript/scripts`
-3. W grze wpisz `/sk reload <nazwa>`
+1. Zainstaluj plugin [`Skript`](https://github.com/SkriptLang/Skript)
+2. Wrzuć pliki `.sk` do folderu:  
+   `plugins/Skript/scripts/`
+3. W grze wpisz:  
+   `/sk reload <nazwa_pliku>`
 
-## 🗣️ Kontakt
+## 💬 Kontakt
 
 📧 Discord: `maumiau0_`  
+🌐 serwer: [https://dc.freezecode.pl](https://dc.freezecode.pl)
+🌐 strona serwera: [https://freezecode.pl](https://freezecode.pl)
+
